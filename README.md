@@ -7,7 +7,7 @@ This is a minimal dapp which implements the [FundMe Smart Contract](https://gith
 1. Clone the repo
 
    ```shell
-   git clone https://github.com/0xSanyam/Funding-Contract-HH
+   git clone https://github.com/0xSanyam/FundMe-Dapp
    ```
 
 2. Run the file
